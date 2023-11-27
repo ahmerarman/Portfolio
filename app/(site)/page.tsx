@@ -32,11 +32,7 @@ export default async function Home() {
               </span>
               !
             </h1>
-            <p className="text-lg text-gray-700">
-              Hi! I'm a passionate and versatile full-stack web developer with a diverse skill set that spans various technologies and platforms. My expertise lies in crafting dynamic and engaging web experiences, and I specialize in the following technologies:
-              <strong>WordPress, Shopify, HTML & CSS, JavaScript & TypeScript, Tailwind CSS, Next.js & React.js. </strong>
-              Whether it's transforming ideas into code, optimizing user interfaces, or delving into the intricacies of e-commerce, I thrive on creating digital solutions that leave a lasting impression. Let's collaborate to bring your web projects to life!
-            </p>
+            <p className="text-lg text-gray-700">Hi, I am a passionate and versatile full-stack web developer with a diverse skill set that spans various technologies and platforms. My expertise lies in crafting dynamic and engaging web experiences, and I specialize in the following technologies: <strong>WordPress, Shopify, HTML & CSS, JavaScript & TypeScript, Tailwind CSS, Next.js & React.js.</strong> Whether it is transforming ideas into code, optimizing user interfaces, or delving into the intricacies of e-commerce, I thrive on creating digital solutions that leave a lasting impression. Let us collaborate to bring your web projects to life.</p>
           </div>
         </div>
 
